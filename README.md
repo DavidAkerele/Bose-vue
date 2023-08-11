@@ -3,6 +3,7 @@ BOSE website in vue js
 
 # NOT RESPONSIVE
 
+link: https://bose-vue.netlify.app/
 
 ![Bose website](https://github.com/DavidAkerele/Bose-vue/assets/104978550/baaab529-8876-4089-b11d-722efaee7503)
 
