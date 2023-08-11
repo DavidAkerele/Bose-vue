@@ -1,7 +1,7 @@
 
 BOSE website in vue js
 
-#NOT RESPONSIVE
+# NOT RESPONSIVE
 
 
 ![Bose website](https://github.com/DavidAkerele/Bose-vue/assets/104978550/baaab529-8876-4089-b11d-722efaee7503)
